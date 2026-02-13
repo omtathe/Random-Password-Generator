@@ -20,4 +20,3 @@ This project is beginner-friendly and demonstrates the use of DOM manipulation, 
 
 ---
 
-## 📂 Project Structure
